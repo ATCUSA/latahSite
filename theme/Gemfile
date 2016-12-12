@@ -1,2 +1,5 @@
 source "https://rubygems.org"
 gemspec
+
+#Gem dependencies for theme
+gems 'jekyll-bootstrap-sass'
